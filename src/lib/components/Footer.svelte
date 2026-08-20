@@ -15,14 +15,14 @@
     <!-- Links Grid -->
     <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-20 text-xs leading-loose text-gray-600">
       <div>
-        <h4 class="font-medium text-black mb-4">Sunday, the helpful robotics company</h4>
+        <h4 class="font-medium text-black mb-4">Billow, the AI close automation company</h4>
       </div>
       
       <div>
         <h4 class="font-medium text-black mb-4">Explore</h4>
         <ul class="space-y-1">
-          <li><a href="#" class="hover:text-black">Technology</a></li>
-          <li><a href="#" class="hover:text-black">Journal</a></li>
+          <li><a href="#" class="hover:text-black">Platform</a></li>
+          <li><a href="#" class="hover:text-black">Blog</a></li>
         </ul>
       </div>
 
@@ -31,14 +31,14 @@
         <ul class="space-y-1">
           <li><a href="#" class="hover:text-black">Company</a></li>
           <li><a href="#" class="hover:text-black">Careers</a></li>
-          <li><a href="#" class="hover:text-black">Beta Program</a></li>
+          <li><a href="#" class="hover:text-black">Early Access</a></li>
         </ul>
       </div>
 
       <div>
         <h4 class="font-medium text-black mb-4">Social</h4>
         <ul class="space-y-1">
-          <li><a href="#" class="hover:text-black">Instagram</a></li>
+          <li><a href="#" class="hover:text-black">LinkedIn</a></li>
           <li><a href="#" class="hover:text-black">X (Twitter)</a></li>
           <li><a href="#" class="hover:text-black">YouTube</a></li>
         </ul>
@@ -47,7 +47,7 @@
 
     <!-- Bottom Bar -->
     <div class="flex flex-col md:flex-row justify-between items-center py-8 text-[10px] text-gray-400 uppercase tracking-wider border-t border-gray-200">
-      <div>© 2025 Sunday Inc</div>
+      <div>© 2025 Billow Labs, Inc.</div>
       <div class="flex gap-8 mt-4 md:mt-0">
         <a href="#" class="hover:text-black">Terms of Service</a>
         <a href="#" class="hover:text-black">Privacy and Cookies</a>
@@ -58,11 +58,11 @@
   <!-- Yellow Banner -->
   <div class="bg-[#FCEE4F] py-12 px-4 relative overflow-hidden">
     <div class="max-w-[1400px] mx-auto flex flex-col items-center text-center gap-4 relative z-10">
-      <p class="text-xs font-medium tracking-wide">A little shade, a little shine. A perfect day to let Memo work.</p>
+      <p class="text-xs font-medium tracking-wide">Another month-end closed on time. Let Billow handle the reconciliations.</p>
       <div class="flex items-center gap-4 text-[10px] uppercase tracking-wider opacity-70">
-        <span>Sunday, Dec 14</span>
-        <span>Mountain View, CA</span>
-        <span>46°F</span>
+        <span>Billow, Dec 14</span>
+        <span>San Francisco, CA</span>
+        <span>58°F</span>
       </div>
     </div>
     

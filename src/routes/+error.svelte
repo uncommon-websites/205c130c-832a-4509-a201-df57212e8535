@@ -3,7 +3,7 @@
 </script>
 
 <main class="page">
-	<h1>Error {page.status}</h1>
-	<p>{page.error?.message ?? "Something went wrong."}</p>
-	<a href="/">Go back home</a>
+	<h1>Issue {page.status}</h1>
+	<p>{page.error?.message ?? "An unexpected error occurred while processing your financial workflow."}</p>
+	<a href="/">Return to Billow Dashboard</a>
 </main>
